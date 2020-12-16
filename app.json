@@ -1,0 +1,12 @@
+{
+  "name": "tutorialeg",
+  "displayName": "tutorialeg",
+  "expo": {
+    "name": "tutorialeg",
+    "slug": "tutorialeg",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
